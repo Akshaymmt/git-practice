@@ -3,6 +3,7 @@ using namespace std;
 
 int add(int a,int b)
 {
+    //edited by merge for conflicts practice in rebase
     return a+b;
 }
 int sub( int a,int b )
