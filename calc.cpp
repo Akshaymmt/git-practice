@@ -18,9 +18,9 @@ int mul( int a,int b )
 {
     return a*b;
 }
-int div ( int a,int b )
+int div ( int a,int c )
 {
-    return a/b;
+    return a/c;
 }
 int main()
 {
