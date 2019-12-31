@@ -1,10 +1,10 @@
 #include<iostream>
 using namespace std;
 
-int add(int a,int b)
+int add(int c,int b)
 {
     //edited by merge for conflicts practice in rebase
-    return a+b;
+    return c+b;
 }
 int sub( int a,int b )
 {
